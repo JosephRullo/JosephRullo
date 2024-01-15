@@ -18,4 +18,4 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://www.linkedin.com/in/joseph-rullo-5a0aa877/
+[linkedin]: https://www.linkedin.com/in/joe-rullo-a5018a89/
