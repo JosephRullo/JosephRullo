@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Azure Virtual Machines and Networking](https://github.com/JosephRullo/Azure-Virtual-Machines-and-Networking)
   - [Configuring Active Directory within Azure VMs](https://github.com/JosephRullo/Configuring-Active-Directory-within-Azure-VMs)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JosephRullo/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
+  - [Network Security Groups (NSGs) and Sharing Access](https://github.com/JosephRullo/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 - <b>Virtual Private Networks</b>
   - [Establishing a VPN Connection](https://github.com/JosephRullo/Virtual-Private-Networks)
 
