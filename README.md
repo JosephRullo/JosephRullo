@@ -5,7 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Azure Virtual Machines and Networking](https://github.com/JosephRullo/Azure-Virtual-Machines-and-Networking/blob/main/README.md)
   - [Active Directory Configuration within Azure VMs](https://github.com/JosephRullo/Configuring-Active-Directory-within-Azure-VMs/blob/main/README.md)
-  - [Active Directory Security Groups and Sharing Access Between Virtual Machines](https://github.com/JosephRullo/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/README.md)
+  - [Active Directory Sharing Access Between Azure Virtual Machines](https://github.com/JosephRullo/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/README.md)
 - <b>Virtual Private Networks</b>
   - [Establishing a VPN Connection](https://github.com/JosephRullo/Virtual-Private-Networks/blob/main/README.md)
 - <b>osTicket (Help Desk Ticketing System)</b>
