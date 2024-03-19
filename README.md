@@ -8,7 +8,7 @@
   - [Active Directory Deployment and Configuration within Azure VMs](https://github.com/JosephRullo/Configuring-Active-Directory-within-Azure-VMs/blob/main/README.md)
   - [Active Directory Sharing Access Between Azure Virtual Machines](https://github.com/JosephRullo/Active-Directory-Security-Groups-and-Sharing-Access-Permissions/blob/main/README.md)
 - <b>DNS</b>
-  - [Domain Name System Basic Understanding & Useful Commands](https://github.com/JosephRullo/Domain-Name-System-DNS-)
+  - [Domain Name System Basic Understanding & Useful Commands](https://github.com/JosephRullo/Domain-Name-System-DNS/blob/main/README.md)
 - <b>Virtual Private Networks</b>
   - [Establishing a VPN Connection](https://github.com/JosephRullo/Virtual-Private-Networks/blob/main/README.md)
 - <b>osTicket (Help Desk Ticketing System)</b>
